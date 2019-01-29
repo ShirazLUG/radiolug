@@ -1,2 +1,2 @@
-# radiolug
+# RadioLUG
 ShirazLUG presentations voices!
